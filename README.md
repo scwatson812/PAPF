@@ -1,5 +1,5 @@
 # RKAD
-Contains code which implements Ripley's K function for areal data as described in 'A Generalization of Ripley's K function for the Detection of Spatial Clustering in Areal Data'
+Contains code which implements Ripley's K function for areal data as described in 'A Generalization of Ripley's K function for the Detection of Spatial Clustering in Areal Data'.
 
 The file Calculate m(r i y) for observed data.R generates data on a square grid.  For each observed unite and each specified radius, the proportion of the circle centered at the centriod of that unit with the given radius is calculated.  
 This file can be modified by replacing the square grid with a shapefile of the users choice.
